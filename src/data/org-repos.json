@@ -5,9 +5,19 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 95,
-    "updatedAt": "2025-01-18T00:14:31Z",
+    "updatedAt": "2025-01-19T00:16:32Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "",
+    "homepageUrl": "",
+    "name": "rose-pine-bloom",
+    "repositoryTopics": [],
+    "stargazerCount": 0,
+    "updatedAt": "2025-01-18T21:28:22Z",
+    "url": "https://github.com/rose-pine/rose-pine-bloom",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for Zellij",
@@ -18,8 +28,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 27,
-    "updatedAt": "2025-01-17T23:45:14Z",
+    "stargazerCount": 28,
+    "updatedAt": "2025-01-18T22:56:59Z",
     "url": "https://github.com/rose-pine/zellij",
     "usesCustomOpenGraphImage": true
   },
@@ -1174,8 +1184,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1272,
-    "updatedAt": "2025-01-15T16:52:21Z",
+    "stargazerCount": 1273,
+    "updatedAt": "2025-01-18T21:51:31Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
