@@ -5,8 +5,27 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 95,
-    "updatedAt": "2025-04-11T00:17:02Z",
+    "updatedAt": "2025-04-12T00:16:23Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Visual Studio Code",
+    "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine",
+    "name": "vscode",
+    "repositoryTopics": [
+      "vscode",
+      "soho-vibes",
+      "theme",
+      "rose-pine",
+      "vscode-extension",
+      "hacktoberfest",
+      "visual-studio-code",
+      "editor"
+    ],
+    "stargazerCount": 525,
+    "updatedAt": "2025-04-11T16:04:06Z",
+    "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -125,7 +144,7 @@
       "editor"
     ],
     "stargazerCount": 2575,
-    "updatedAt": "2025-04-11T00:06:43Z",
+    "updatedAt": "2025-04-11T23:17:42Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -234,25 +253,6 @@
     "updatedAt": "2025-04-03T07:56:00Z",
     "url": "https://github.com/rose-pine/obsidian",
     "usesCustomOpenGraphImage": false
-  },
-  {
-    "description": "Soho vibes for Visual Studio Code",
-    "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine",
-    "name": "vscode",
-    "repositoryTopics": [
-      "vscode",
-      "soho-vibes",
-      "theme",
-      "rose-pine",
-      "vscode-extension",
-      "hacktoberfest",
-      "visual-studio-code",
-      "editor"
-    ],
-    "stargazerCount": 524,
-    "updatedAt": "2025-04-10T08:28:58Z",
-    "url": "https://github.com/rose-pine/vscode",
-    "usesCustomOpenGraphImage": true
   },
   {
     "description": "Soho vibes for Cosmic desktop ",
@@ -411,8 +411,8 @@
       "editor",
       "hacktoberfest"
     ],
-    "stargazerCount": 31,
-    "updatedAt": "2025-01-07T15:50:37Z",
+    "stargazerCount": 32,
+    "updatedAt": "2025-04-12T00:16:48Z",
     "url": "https://github.com/rose-pine/helix",
     "usesCustomOpenGraphImage": true
   },
@@ -867,8 +867,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 103,
-    "updatedAt": "2025-03-30T14:36:15Z",
+    "stargazerCount": 104,
+    "updatedAt": "2025-04-11T17:12:12Z",
     "url": "https://github.com/rose-pine/kitty",
     "usesCustomOpenGraphImage": true
   },
