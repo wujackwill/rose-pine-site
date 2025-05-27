@@ -5,18 +5,8 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 97,
-    "updatedAt": "2025-05-26T00:18:34Z",
+    "updatedAt": "2025-05-27T00:17:41Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Zed",
-    "homepageUrl": "",
-    "name": "zed",
-    "repositoryTopics": [],
-    "stargazerCount": 34,
-    "updatedAt": "2025-05-24T22:13:38Z",
-    "url": "https://github.com/rose-pine/zed",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -30,8 +20,18 @@
       "stylus"
     ],
     "stargazerCount": 25,
-    "updatedAt": "2025-05-24T18:31:46Z",
+    "updatedAt": "2025-05-26T07:09:13Z",
     "url": "https://github.com/rose-pine/userstyles",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Zed",
+    "homepageUrl": "",
+    "name": "zed",
+    "repositoryTopics": [],
+    "stargazerCount": 34,
+    "updatedAt": "2025-05-24T22:13:38Z",
+    "url": "https://github.com/rose-pine/zed",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -410,8 +410,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1369,
-    "updatedAt": "2025-05-25T12:04:44Z",
+    "stargazerCount": 1370,
+    "updatedAt": "2025-05-26T02:10:24Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -1298,8 +1298,8 @@
       "bear",
       "hacktoberfest"
     ],
-    "stargazerCount": 10,
-    "updatedAt": "2025-03-24T17:12:05Z",
+    "stargazerCount": 11,
+    "updatedAt": "2025-05-26T19:36:33Z",
     "url": "https://github.com/rose-pine/bear-blog",
     "usesCustomOpenGraphImage": true
   },
