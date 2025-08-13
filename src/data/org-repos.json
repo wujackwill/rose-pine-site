@@ -5,7 +5,7 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 103,
-    "updatedAt": "2025-08-12T00:18:35Z",
+    "updatedAt": "2025-08-13T00:18:44Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
   },
@@ -159,8 +159,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 2742,
-    "updatedAt": "2025-08-11T19:20:07Z",
+    "stargazerCount": 2745,
+    "updatedAt": "2025-08-12T19:38:29Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -754,8 +754,8 @@
       "editor",
       "hacktoberfest"
     ],
-    "stargazerCount": 34,
-    "updatedAt": "2025-08-02T12:51:20Z",
+    "stargazerCount": 36,
+    "updatedAt": "2025-08-12T19:04:56Z",
     "url": "https://github.com/rose-pine/helix",
     "usesCustomOpenGraphImage": true
   },
@@ -1752,8 +1752,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 125,
-    "updatedAt": "2025-08-09T09:30:09Z",
+    "stargazerCount": 124,
+    "updatedAt": "2025-08-12T09:38:53Z",
     "url": "https://github.com/rose-pine/iterm",
     "usesCustomOpenGraphImage": true
   },
