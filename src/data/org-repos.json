@@ -5,7 +5,7 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 104,
-    "updatedAt": "2025-11-04T00:17:41Z",
+    "updatedAt": "2025-11-05T00:18:13Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
   },
@@ -35,8 +35,8 @@
       "visual-studio-code",
       "editor"
     ],
-    "stargazerCount": 562,
-    "updatedAt": "2025-11-02T22:14:11Z",
+    "stargazerCount": 563,
+    "updatedAt": "2025-11-04T16:47:10Z",
     "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
@@ -256,8 +256,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 2823,
-    "updatedAt": "2025-11-02T22:34:03Z",
+    "stargazerCount": 2825,
+    "updatedAt": "2025-11-05T00:13:34Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
