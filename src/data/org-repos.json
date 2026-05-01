@@ -5,7 +5,7 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 107,
-    "updatedAt": "2026-04-30T00:39:03Z",
+    "updatedAt": "2026-05-01T00:41:19Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
   },
@@ -52,8 +52,8 @@
       "visual-studio-code",
       "editor"
     ],
-    "stargazerCount": 588,
-    "updatedAt": "2026-04-29T23:31:29Z",
+    "stargazerCount": 589,
+    "updatedAt": "2026-05-01T00:12:14Z",
     "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
@@ -86,6 +86,20 @@
     "stargazerCount": 3002,
     "updatedAt": "2026-04-29T23:22:02Z",
     "url": "https://github.com/rose-pine/neovim",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Tabby",
+    "homepageUrl": "",
+    "name": "tabby",
+    "repositoryTopics": [
+      "shell",
+      "tabby",
+      "terminal"
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2026-04-30T18:08:18Z",
+    "url": "https://github.com/rose-pine/tabby",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -296,8 +310,8 @@
     "homepageUrl": "",
     "name": "ghostty",
     "repositoryTopics": [],
-    "stargazerCount": 58,
-    "updatedAt": "2026-04-27T05:32:21Z",
+    "stargazerCount": 59,
+    "updatedAt": "2026-04-30T00:48:04Z",
     "url": "https://github.com/rose-pine/ghostty",
     "usesCustomOpenGraphImage": true
   },
@@ -844,8 +858,8 @@
       "surfingkeys",
       "theme"
     ],
-    "stargazerCount": 31,
-    "updatedAt": "2026-04-21T00:20:07Z",
+    "stargazerCount": 32,
+    "updatedAt": "2026-04-30T03:09:41Z",
     "url": "https://github.com/rose-pine/surfingkeys",
     "usesCustomOpenGraphImage": true
   },
