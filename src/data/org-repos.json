@@ -5,8 +5,27 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 107,
-    "updatedAt": "2026-05-06T00:36:35Z",
+    "updatedAt": "2026-05-07T00:38:37Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Visual Studio Code",
+    "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine",
+    "name": "vscode",
+    "repositoryTopics": [
+      "vscode",
+      "soho-vibes",
+      "theme",
+      "rose-pine",
+      "vscode-extension",
+      "hacktoberfest",
+      "visual-studio-code",
+      "editor"
+    ],
+    "stargazerCount": 589,
+    "updatedAt": "2026-05-06T21:32:28Z",
+    "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -49,25 +68,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for Visual Studio Code",
-    "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine",
-    "name": "vscode",
-    "repositoryTopics": [
-      "vscode",
-      "soho-vibes",
-      "theme",
-      "rose-pine",
-      "vscode-extension",
-      "hacktoberfest",
-      "visual-studio-code",
-      "editor"
-    ],
-    "stargazerCount": 588,
-    "updatedAt": "2026-05-04T17:47:49Z",
-    "url": "https://github.com/rose-pine/vscode",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Soho vibes for Neovim",
     "homepageUrl": "",
     "name": "neovim",
@@ -83,8 +83,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3004,
-    "updatedAt": "2026-05-01T18:46:53Z",
+    "stargazerCount": 3007,
+    "updatedAt": "2026-05-06T18:53:40Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -462,8 +462,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 141,
-    "updatedAt": "2026-04-23T05:38:02Z",
+    "stargazerCount": 142,
+    "updatedAt": "2026-05-06T14:51:35Z",
     "url": "https://github.com/rose-pine/alacritty",
     "usesCustomOpenGraphImage": true
   },
@@ -615,8 +615,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 44,
-    "updatedAt": "2026-04-22T03:26:20Z",
+    "stargazerCount": 45,
+    "updatedAt": "2026-05-07T00:11:01Z",
     "url": "https://github.com/rose-pine/zellij",
     "usesCustomOpenGraphImage": true
   },
@@ -2045,7 +2045,7 @@
       "terminal-emulator"
     ],
     "stargazerCount": 44,
-    "updatedAt": "2026-05-05T16:11:21Z",
+    "updatedAt": "2026-05-06T20:38:55Z",
     "url": "https://github.com/rose-pine/terminal.app",
     "usesCustomOpenGraphImage": true
   },
