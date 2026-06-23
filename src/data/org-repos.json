@@ -1,22 +1,22 @@
 [
   {
-    "description": "The Rosé Pine garden",
-    "homepageUrl": "https://rosepinetheme.com",
-    "name": "rose-pine-site",
-    "repositoryTopics": [],
-    "stargazerCount": 108,
-    "updatedAt": "2026-06-22T00:52:33Z",
-    "url": "https://github.com/rose-pine/rose-pine-site",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Homebrew tap repo for Rosé Pine",
     "homepageUrl": "",
     "name": "homebrew-tap",
     "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-06-21T23:47:04Z",
+    "updatedAt": "2026-06-22T21:51:01Z",
     "url": "https://github.com/rose-pine/homebrew-tap",
+    "usesCustomOpenGraphImage": false
+  },
+  {
+    "description": "Soho vibes for Ableton Live",
+    "homepageUrl": "",
+    "name": "ableton-live",
+    "repositoryTopics": [],
+    "stargazerCount": 0,
+    "updatedAt": "2026-06-22T20:47:09Z",
+    "url": "https://github.com/rose-pine/ableton-live",
     "usesCustomOpenGraphImage": false
   },
   {
@@ -25,9 +25,50 @@
     "name": "rose-pine-bloom",
     "repositoryTopics": [],
     "stargazerCount": 20,
-    "updatedAt": "2026-06-21T23:15:24Z",
+    "updatedAt": "2026-06-22T20:36:05Z",
     "url": "https://github.com/rose-pine/rose-pine-bloom",
     "usesCustomOpenGraphImage": false
+  },
+  {
+    "description": "The Rosé Pine garden",
+    "homepageUrl": "https://rosepinetheme.com",
+    "name": "rose-pine-site",
+    "repositoryTopics": [],
+    "stargazerCount": 108,
+    "updatedAt": "2026-06-22T20:05:27Z",
+    "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Windows Terminal",
+    "homepageUrl": "",
+    "name": "windows-terminal",
+    "repositoryTopics": [
+      "windows-terminal",
+      "soho-vibes",
+      "theme",
+      "rose-pine",
+      "terminal",
+      "terminal-emulator"
+    ],
+    "stargazerCount": 112,
+    "updatedAt": "2026-06-22T15:27:17Z",
+    "url": "https://github.com/rose-pine/windows-terminal",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for TextMate",
+    "homepageUrl": "",
+    "name": "tm-theme",
+    "repositoryTopics": [
+      "rose-pine",
+      "soho-vibes",
+      "theme"
+    ],
+    "stargazerCount": 18,
+    "updatedAt": "2026-06-22T15:22:09Z",
+    "url": "https://github.com/rose-pine/tm-theme",
+    "usesCustomOpenGraphImage": true
   },
   {
     "description": "Soho vibes for Hyprland ",
@@ -109,7 +150,7 @@
       "editor"
     ],
     "stargazerCount": 3038,
-    "updatedAt": "2026-06-19T18:42:07Z",
+    "updatedAt": "2026-06-22T18:34:45Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -233,23 +274,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for Windows Terminal",
-    "homepageUrl": "",
-    "name": "windows-terminal",
-    "repositoryTopics": [
-      "windows-terminal",
-      "soho-vibes",
-      "theme",
-      "rose-pine",
-      "terminal",
-      "terminal-emulator"
-    ],
-    "stargazerCount": 112,
-    "updatedAt": "2026-06-14T17:12:16Z",
-    "url": "https://github.com/rose-pine/windows-terminal",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Soho vibes for tmux",
     "homepageUrl": "",
     "name": "tmux",
@@ -260,7 +284,7 @@
       "theme"
     ],
     "stargazerCount": 268,
-    "updatedAt": "2026-06-18T21:19:19Z",
+    "updatedAt": "2026-06-22T18:34:46Z",
     "url": "https://github.com/rose-pine/tmux",
     "usesCustomOpenGraphImage": true
   },
@@ -337,20 +361,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for TextMate",
-    "homepageUrl": "",
-    "name": "tm-theme",
-    "repositoryTopics": [
-      "rose-pine",
-      "soho-vibes",
-      "theme"
-    ],
-    "stargazerCount": 18,
-    "updatedAt": "2026-04-19T17:32:55Z",
-    "url": "https://github.com/rose-pine/tm-theme",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Soho vibes for Firefox",
     "homepageUrl": "",
     "name": "firefox",
@@ -363,8 +373,8 @@
       "addon",
       "firefox-extension"
     ],
-    "stargazerCount": 99,
-    "updatedAt": "2026-06-19T11:33:12Z",
+    "stargazerCount": 100,
+    "updatedAt": "2026-06-22T09:55:51Z",
     "url": "https://github.com/rose-pine/firefox",
     "usesCustomOpenGraphImage": true
   },
@@ -553,8 +563,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1579,
-    "updatedAt": "2026-06-20T05:49:26Z",
+    "stargazerCount": 1580,
+    "updatedAt": "2026-06-22T09:51:29Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -976,8 +986,8 @@
       "css",
       "hacktoberfest"
     ],
-    "stargazerCount": 26,
-    "updatedAt": "2025-11-05T14:50:50Z",
+    "stargazerCount": 25,
+    "updatedAt": "2026-06-22T18:34:41Z",
     "url": "https://github.com/rose-pine/slack",
     "usesCustomOpenGraphImage": true
   },
@@ -1615,7 +1625,7 @@
       "rose-pine"
     ],
     "stargazerCount": 68,
-    "updatedAt": "2026-04-13T15:37:08Z",
+    "updatedAt": "2026-06-22T18:34:43Z",
     "url": "https://github.com/rose-pine/google-chrome",
     "usesCustomOpenGraphImage": true
   },
