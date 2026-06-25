@@ -5,8 +5,34 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 108,
-    "updatedAt": "2026-06-24T00:35:02Z",
+    "updatedAt": "2026-06-25T00:40:15Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for i3",
+    "homepageUrl": "",
+    "name": "i3",
+    "repositoryTopics": [
+      "i3",
+      "rose-pine",
+      "soho-vibes",
+      "theme",
+      "window-manager"
+    ],
+    "stargazerCount": 15,
+    "updatedAt": "2026-06-24T20:00:47Z",
+    "url": "https://github.com/rose-pine/i3",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Cursors",
+    "homepageUrl": "",
+    "name": "cursors",
+    "repositoryTopics": [],
+    "stargazerCount": 179,
+    "updatedAt": "2026-06-24T16:44:54Z",
+    "url": "https://github.com/rose-pine/cursors",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -149,8 +175,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3039,
-    "updatedAt": "2026-06-23T04:19:03Z",
+    "stargazerCount": 3040,
+    "updatedAt": "2026-06-24T13:01:51Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -268,8 +294,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 388,
-    "updatedAt": "2026-06-09T05:12:36Z",
+    "stargazerCount": 389,
+    "updatedAt": "2026-06-25T00:36:40Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -403,8 +429,8 @@
     "homepageUrl": "",
     "name": "yazi",
     "repositoryTopics": [],
-    "stargazerCount": 16,
-    "updatedAt": "2026-05-18T07:17:46Z",
+    "stargazerCount": 17,
+    "updatedAt": "2026-06-24T03:21:05Z",
     "url": "https://github.com/rose-pine/yazi",
     "usesCustomOpenGraphImage": false
   },
@@ -1537,22 +1563,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for i3 wm",
-    "homepageUrl": "",
-    "name": "i3",
-    "repositoryTopics": [
-      "i3",
-      "rose-pine",
-      "soho-vibes",
-      "theme",
-      "window-manager"
-    ],
-    "stargazerCount": 15,
-    "updatedAt": "2026-03-23T21:10:48Z",
-    "url": "https://github.com/rose-pine/i3",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Soho vibes for Hyper",
     "homepageUrl": "https://www.npmjs.com/package/hyper-rose-pine",
     "name": "hyper",
@@ -1840,16 +1850,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for Cursors",
-    "homepageUrl": "",
-    "name": "cursor",
-    "repositoryTopics": [],
-    "stargazerCount": 179,
-    "updatedAt": "2026-06-23T01:04:26Z",
-    "url": "https://github.com/rose-pine/cursor",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Soho vibes for ct.js",
     "homepageUrl": "",
     "name": "ct.js",
@@ -1905,7 +1905,7 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for cava",
+    "description": "Soho vibes for Cava",
     "homepageUrl": "",
     "name": "cava",
     "repositoryTopics": [
@@ -1915,7 +1915,7 @@
       "terminal"
     ],
     "stargazerCount": 18,
-    "updatedAt": "2026-06-07T16:26:22Z",
+    "updatedAt": "2026-06-24T19:59:14Z",
     "url": "https://github.com/rose-pine/cava",
     "usesCustomOpenGraphImage": true
   },
@@ -2057,6 +2057,20 @@
     "stargazerCount": 45,
     "updatedAt": "2026-06-08T23:45:40Z",
     "url": "https://github.com/rose-pine/terminal.app",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Home Assistant",
+    "homepageUrl": "",
+    "name": "home-assistant",
+    "repositoryTopics": [
+      "home-assistant",
+      "rose-pine",
+      "theme"
+    ],
+    "stargazerCount": 15,
+    "updatedAt": "2026-06-24T17:04:26Z",
+    "url": "https://github.com/rose-pine/home-assistant",
     "usesCustomOpenGraphImage": true
   },
   {
