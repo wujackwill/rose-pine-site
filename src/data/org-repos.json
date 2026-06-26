@@ -5,8 +5,18 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 108,
-    "updatedAt": "2026-06-25T00:40:15Z",
+    "updatedAt": "2026-06-26T00:41:08Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Alfred",
+    "homepageUrl": "",
+    "name": "alfred",
+    "repositoryTopics": [],
+    "stargazerCount": 4,
+    "updatedAt": "2026-06-25T08:07:35Z",
+    "url": "https://github.com/rose-pine/alfred",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -30,8 +40,8 @@
     "homepageUrl": "",
     "name": "cursors",
     "repositoryTopics": [],
-    "stargazerCount": 179,
-    "updatedAt": "2026-06-24T16:44:54Z",
+    "stargazerCount": 180,
+    "updatedAt": "2026-06-25T09:00:05Z",
     "url": "https://github.com/rose-pine/cursors",
     "usesCustomOpenGraphImage": true
   },
@@ -50,8 +60,8 @@
     "homepageUrl": "",
     "name": "ableton-live",
     "repositoryTopics": [],
-    "stargazerCount": 0,
-    "updatedAt": "2026-06-22T20:47:09Z",
+    "stargazerCount": 2,
+    "updatedAt": "2026-06-25T08:44:36Z",
     "url": "https://github.com/rose-pine/ableton-live",
     "usesCustomOpenGraphImage": false
   },
@@ -175,8 +185,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3040,
-    "updatedAt": "2026-06-24T13:01:51Z",
+    "stargazerCount": 3042,
+    "updatedAt": "2026-06-25T22:00:17Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -294,8 +304,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 389,
-    "updatedAt": "2026-06-25T00:36:40Z",
+    "stargazerCount": 402,
+    "updatedAt": "2026-06-25T23:47:45Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -419,8 +429,8 @@
     "homepageUrl": "",
     "name": "ghostty",
     "repositoryTopics": [],
-    "stargazerCount": 63,
-    "updatedAt": "2026-06-16T18:50:59Z",
+    "stargazerCount": 64,
+    "updatedAt": "2026-06-25T19:20:05Z",
     "url": "https://github.com/rose-pine/ghostty",
     "usesCustomOpenGraphImage": true
   },
@@ -589,8 +599,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1580,
-    "updatedAt": "2026-06-23T13:43:21Z",
+    "stargazerCount": 1581,
+    "updatedAt": "2026-06-25T09:00:00Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -629,16 +639,6 @@
     "stargazerCount": 140,
     "updatedAt": "2026-06-08T02:00:49Z",
     "url": "https://github.com/rose-pine/iterm",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Alfred",
-    "homepageUrl": "",
-    "name": "alfred",
-    "repositoryTopics": [],
-    "stargazerCount": 4,
-    "updatedAt": "2025-12-22T21:42:39Z",
-    "url": "https://github.com/rose-pine/alfred",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -742,8 +742,8 @@
       "theme",
       "color-palette"
     ],
-    "stargazerCount": 60,
-    "updatedAt": "2026-06-16T03:20:41Z",
+    "stargazerCount": 61,
+    "updatedAt": "2026-06-25T07:42:27Z",
     "url": "https://github.com/rose-pine/waybar",
     "usesCustomOpenGraphImage": true
   },
@@ -1526,8 +1526,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 122,
-    "updatedAt": "2026-06-01T11:50:42Z",
+    "stargazerCount": 123,
+    "updatedAt": "2026-06-25T09:00:07Z",
     "url": "https://github.com/rose-pine/kitty",
     "usesCustomOpenGraphImage": true
   },
@@ -1601,8 +1601,8 @@
       "theme",
       "rose-pine"
     ],
-    "stargazerCount": 336,
-    "updatedAt": "2026-06-14T12:28:16Z",
+    "stargazerCount": 337,
+    "updatedAt": "2026-06-25T09:00:04Z",
     "url": "https://github.com/rose-pine/gtk",
     "usesCustomOpenGraphImage": true
   },
@@ -1627,15 +1627,11 @@
     "name": "google-chrome",
     "repositoryTopics": [
       "theme",
-      "google-chrome",
-      "google-chrome-theme",
-      "chrome",
-      "chrome-theme",
       "soho-vibes",
       "rose-pine"
     ],
     "stargazerCount": 68,
-    "updatedAt": "2026-06-22T18:34:43Z",
+    "updatedAt": "2026-06-25T15:27:30Z",
     "url": "https://github.com/rose-pine/google-chrome",
     "usesCustomOpenGraphImage": true
   },
