@@ -1,5 +1,35 @@
 [
   {
+    "description": "The Rosé Pine garden",
+    "homepageUrl": "https://rosepinetheme.com",
+    "name": "rose-pine-site",
+    "repositoryTopics": [],
+    "stargazerCount": 108,
+    "updatedAt": "2026-07-04T01:59:55Z",
+    "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Ableton Live",
+    "homepageUrl": "",
+    "name": "ableton-live",
+    "repositoryTopics": [],
+    "stargazerCount": 3,
+    "updatedAt": "2026-07-03T08:29:56Z",
+    "url": "https://github.com/rose-pine/ableton-live",
+    "usesCustomOpenGraphImage": false
+  },
+  {
+    "description": "",
+    "homepageUrl": "",
+    "name": "bear",
+    "repositoryTopics": [],
+    "stargazerCount": 0,
+    "updatedAt": "2026-07-03T03:41:04Z",
+    "url": "https://github.com/rose-pine/bear",
+    "usesCustomOpenGraphImage": true
+  },
+  {
     "description": "Soho vibes for App",
     "homepageUrl": "",
     "name": "rose-pine-template",
@@ -12,26 +42,6 @@
     "updatedAt": "2026-07-02T22:14:58Z",
     "url": "https://github.com/rose-pine/rose-pine-template",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "The Rosé Pine garden",
-    "homepageUrl": "https://rosepinetheme.com",
-    "name": "rose-pine-site",
-    "repositoryTopics": [],
-    "stargazerCount": 108,
-    "updatedAt": "2026-07-02T14:14:42Z",
-    "url": "https://github.com/rose-pine/rose-pine-site",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Ableton Live",
-    "homepageUrl": "",
-    "name": "ableton-live",
-    "repositoryTopics": [],
-    "stargazerCount": 3,
-    "updatedAt": "2026-07-02T14:10:22Z",
-    "url": "https://github.com/rose-pine/ableton-live",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Generate Rosé Pine themes",
@@ -254,8 +264,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3045,
-    "updatedAt": "2026-07-02T14:09:56Z",
+    "stargazerCount": 3046,
+    "updatedAt": "2026-07-04T00:29:12Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -273,8 +283,8 @@
       "visual-studio-code",
       "editor"
     ],
-    "stargazerCount": 597,
-    "updatedAt": "2026-07-02T23:22:53Z",
+    "stargazerCount": 598,
+    "updatedAt": "2026-07-04T01:21:00Z",
     "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
@@ -1528,8 +1538,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 123,
-    "updatedAt": "2026-06-25T09:00:07Z",
+    "stargazerCount": 124,
+    "updatedAt": "2026-07-04T00:35:36Z",
     "url": "https://github.com/rose-pine/kitty",
     "usesCustomOpenGraphImage": true
   },
@@ -1730,8 +1740,8 @@
     "repositoryTopics": [
       "theme"
     ],
-    "stargazerCount": 34,
-    "updatedAt": "2026-03-28T21:19:14Z",
+    "stargazerCount": 35,
+    "updatedAt": "2026-07-04T00:35:33Z",
     "url": "https://github.com/rose-pine/fzf",
     "usesCustomOpenGraphImage": true
   },
