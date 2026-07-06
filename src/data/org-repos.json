@@ -5,8 +5,24 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 108,
-    "updatedAt": "2026-07-05T02:31:31Z",
+    "updatedAt": "2026-07-06T02:36:07Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+    "homepageUrl": "https://rosepinetheme.com",
+    "name": "rose-pine-theme",
+    "repositoryTopics": [
+      "syntax-theme",
+      "ui-theme",
+      "colorscheme",
+      "palette",
+      "aesthetic"
+    ],
+    "stargazerCount": 1583,
+    "updatedAt": "2026-07-05T19:43:50Z",
+    "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -14,8 +30,8 @@
     "homepageUrl": "",
     "name": "ableton-live",
     "repositoryTopics": [],
-    "stargazerCount": 3,
-    "updatedAt": "2026-07-03T08:29:56Z",
+    "stargazerCount": 4,
+    "updatedAt": "2026-07-05T15:08:03Z",
     "url": "https://github.com/rose-pine/ableton-live",
     "usesCustomOpenGraphImage": false
   },
@@ -264,8 +280,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3047,
-    "updatedAt": "2026-07-04T16:36:49Z",
+    "stargazerCount": 3048,
+    "updatedAt": "2026-07-05T13:54:16Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -283,8 +299,8 @@
       "visual-studio-code",
       "editor"
     ],
-    "stargazerCount": 598,
-    "updatedAt": "2026-07-04T01:21:00Z",
+    "stargazerCount": 600,
+    "updatedAt": "2026-07-05T16:37:50Z",
     "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
@@ -368,8 +384,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 424,
-    "updatedAt": "2026-07-04T19:10:59Z",
+    "stargazerCount": 426,
+    "updatedAt": "2026-07-05T17:21:23Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -383,8 +399,8 @@
       "tmux",
       "theme"
     ],
-    "stargazerCount": 269,
-    "updatedAt": "2026-06-29T12:05:36Z",
+    "stargazerCount": 270,
+    "updatedAt": "2026-07-05T12:56:29Z",
     "url": "https://github.com/rose-pine/tmux",
     "usesCustomOpenGraphImage": true
   },
@@ -620,22 +636,6 @@
     "stargazerCount": 28,
     "updatedAt": "2026-06-11T21:57:32Z",
     "url": "https://github.com/rose-pine/rofi",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
-    "homepageUrl": "https://rosepinetheme.com",
-    "name": "rose-pine-theme",
-    "repositoryTopics": [
-      "syntax-theme",
-      "ui-theme",
-      "colorscheme",
-      "palette",
-      "aesthetic"
-    ],
-    "stargazerCount": 1584,
-    "updatedAt": "2026-07-04T23:37:45Z",
-    "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
   {
