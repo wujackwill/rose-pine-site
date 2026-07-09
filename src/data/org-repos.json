@@ -5,7 +5,7 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 108,
-    "updatedAt": "2026-07-08T02:05:36Z",
+    "updatedAt": "2026-07-09T02:24:09Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
   },
@@ -20,8 +20,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1583,
-    "updatedAt": "2026-07-05T19:43:50Z",
+    "stargazerCount": 1584,
+    "updatedAt": "2026-07-08T16:32:03Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -281,7 +281,7 @@
       "editor"
     ],
     "stargazerCount": 3051,
-    "updatedAt": "2026-07-08T00:27:13Z",
+    "updatedAt": "2026-07-08T18:23:45Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -299,8 +299,8 @@
       "visual-studio-code",
       "editor"
     ],
-    "stargazerCount": 600,
-    "updatedAt": "2026-07-05T16:37:50Z",
+    "stargazerCount": 601,
+    "updatedAt": "2026-07-08T12:58:02Z",
     "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
@@ -384,8 +384,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 431,
-    "updatedAt": "2026-07-07T19:40:14Z",
+    "stargazerCount": 433,
+    "updatedAt": "2026-07-08T20:04:53Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -751,8 +751,8 @@
     "repositoryTopics": [
       "theme"
     ],
-    "stargazerCount": 6,
-    "updatedAt": "2026-06-03T18:08:33Z",
+    "stargazerCount": 5,
+    "updatedAt": "2026-07-08T12:31:05Z",
     "url": "https://github.com/rose-pine/writefreely",
     "usesCustomOpenGraphImage": true
   },
@@ -1114,8 +1114,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 9,
-    "updatedAt": "2025-11-05T14:50:39Z",
+    "stargazerCount": 10,
+    "updatedAt": "2026-07-08T12:21:39Z",
     "url": "https://github.com/rose-pine/rio-terminal",
     "usesCustomOpenGraphImage": true
   },
@@ -1511,8 +1511,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 18,
-    "updatedAt": "2026-06-06T07:33:34Z",
+    "stargazerCount": 19,
+    "updatedAt": "2026-07-08T17:58:59Z",
     "url": "https://github.com/rose-pine/konsole",
     "usesCustomOpenGraphImage": true
   },
