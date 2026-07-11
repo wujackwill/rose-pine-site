@@ -5,8 +5,23 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 108,
-    "updatedAt": "2026-07-10T02:25:07Z",
+    "updatedAt": "2026-07-11T02:03:15Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Userstyles",
+    "homepageUrl": "",
+    "name": "userstyles",
+    "repositoryTopics": [
+      "css",
+      "stylish",
+      "userstyles",
+      "stylus"
+    ],
+    "stargazerCount": 50,
+    "updatedAt": "2026-07-10T14:31:28Z",
+    "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -20,8 +35,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1585,
-    "updatedAt": "2026-07-09T10:04:22Z",
+    "stargazerCount": 1586,
+    "updatedAt": "2026-07-11T01:52:02Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -64,25 +79,10 @@
     "homepageUrl": "",
     "name": "rose-pine-bloom",
     "repositoryTopics": [],
-    "stargazerCount": 20,
-    "updatedAt": "2026-06-28T14:28:31Z",
+    "stargazerCount": 21,
+    "updatedAt": "2026-07-10T20:09:34Z",
     "url": "https://github.com/rose-pine/rose-pine-bloom",
     "usesCustomOpenGraphImage": false
-  },
-  {
-    "description": "Soho vibes for Userstyles",
-    "homepageUrl": "",
-    "name": "userstyles",
-    "repositoryTopics": [
-      "css",
-      "stylish",
-      "userstyles",
-      "stylus"
-    ],
-    "stargazerCount": 50,
-    "updatedAt": "2026-07-09T12:14:13Z",
-    "url": "https://github.com/rose-pine/userstyles",
-    "usesCustomOpenGraphImage": true
   },
   {
     "description": "Soho vibes for Phemex",
@@ -281,7 +281,7 @@
       "editor"
     ],
     "stargazerCount": 3052,
-    "updatedAt": "2026-07-09T09:29:50Z",
+    "updatedAt": "2026-07-10T20:36:21Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -299,8 +299,8 @@
       "visual-studio-code",
       "editor"
     ],
-    "stargazerCount": 601,
-    "updatedAt": "2026-07-08T12:58:02Z",
+    "stargazerCount": 602,
+    "updatedAt": "2026-07-10T17:17:49Z",
     "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
@@ -1728,8 +1728,8 @@
       "theme",
       "hacktoberfest"
     ],
-    "stargazerCount": 2,
-    "updatedAt": "2025-11-05T14:46:26Z",
+    "stargazerCount": 3,
+    "updatedAt": "2026-07-10T10:45:42Z",
     "url": "https://github.com/rose-pine/gdevelop",
     "usesCustomOpenGraphImage": true
   },
