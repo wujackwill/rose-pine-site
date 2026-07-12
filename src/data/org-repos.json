@@ -4,8 +4,8 @@
     "homepageUrl": "https://rosepinetheme.com",
     "name": "rose-pine-site",
     "repositoryTopics": [],
-    "stargazerCount": 108,
-    "updatedAt": "2026-07-11T02:03:15Z",
+    "stargazerCount": 109,
+    "updatedAt": "2026-07-12T02:06:48Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
   },
@@ -20,9 +20,19 @@
       "stylus"
     ],
     "stargazerCount": 50,
-    "updatedAt": "2026-07-10T14:31:28Z",
+    "updatedAt": "2026-07-12T00:00:27Z",
     "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Generate Rosé Pine themes",
+    "homepageUrl": "",
+    "name": "rose-pine-bloom",
+    "repositoryTopics": [],
+    "stargazerCount": 21,
+    "updatedAt": "2026-07-11T19:41:58Z",
+    "url": "https://github.com/rose-pine/rose-pine-bloom",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
@@ -35,8 +45,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1586,
-    "updatedAt": "2026-07-11T01:52:02Z",
+    "stargazerCount": 1587,
+    "updatedAt": "2026-07-11T10:47:12Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -69,20 +79,10 @@
       "soho-vibes",
       "theme"
     ],
-    "stargazerCount": 49,
-    "updatedAt": "2026-07-02T22:14:58Z",
+    "stargazerCount": 50,
+    "updatedAt": "2026-07-11T11:14:32Z",
     "url": "https://github.com/rose-pine/rose-pine-template",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Generate Rosé Pine themes",
-    "homepageUrl": "",
-    "name": "rose-pine-bloom",
-    "repositoryTopics": [],
-    "stargazerCount": 21,
-    "updatedAt": "2026-07-10T20:09:34Z",
-    "url": "https://github.com/rose-pine/rose-pine-bloom",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for Phemex",
@@ -231,8 +231,8 @@
     "homepageUrl": "",
     "name": "zed",
     "repositoryTopics": [],
-    "stargazerCount": 62,
-    "updatedAt": "2026-06-16T18:21:30Z",
+    "stargazerCount": 63,
+    "updatedAt": "2026-07-11T22:20:18Z",
     "url": "https://github.com/rose-pine/zed",
     "usesCustomOpenGraphImage": true
   },
@@ -280,8 +280,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3052,
-    "updatedAt": "2026-07-10T20:36:21Z",
+    "stargazerCount": 3053,
+    "updatedAt": "2026-07-11T11:14:18Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -384,8 +384,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 435,
-    "updatedAt": "2026-07-09T18:30:54Z",
+    "stargazerCount": 436,
+    "updatedAt": "2026-07-11T14:42:22Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -621,8 +621,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 145,
-    "updatedAt": "2026-07-04T16:20:48Z",
+    "stargazerCount": 146,
+    "updatedAt": "2026-07-11T22:21:07Z",
     "url": "https://github.com/rose-pine/alacritty",
     "usesCustomOpenGraphImage": true
   },
