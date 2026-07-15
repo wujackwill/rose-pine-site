@@ -5,8 +5,23 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 109,
-    "updatedAt": "2026-07-12T02:06:48Z",
+    "updatedAt": "2026-07-15T01:50:55Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Wallpapers inspired by Rosé Pine",
+    "homepageUrl": "",
+    "name": "wallpapers",
+    "repositoryTopics": [
+      "wallpapers",
+      "soho-vibes",
+      "rose-pine",
+      "theme"
+    ],
+    "stargazerCount": 440,
+    "updatedAt": "2026-07-14T14:41:25Z",
+    "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -45,8 +60,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1587,
-    "updatedAt": "2026-07-11T10:47:12Z",
+    "stargazerCount": 1589,
+    "updatedAt": "2026-07-14T13:32:39Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -119,8 +134,8 @@
       "discord",
       "hacktoberfest"
     ],
-    "stargazerCount": 122,
-    "updatedAt": "2026-06-29T09:59:11Z",
+    "stargazerCount": 123,
+    "updatedAt": "2026-07-14T10:08:08Z",
     "url": "https://github.com/rose-pine/discord",
     "usesCustomOpenGraphImage": true
   },
@@ -155,8 +170,8 @@
     "homepageUrl": "",
     "name": "cursors",
     "repositoryTopics": [],
-    "stargazerCount": 181,
-    "updatedAt": "2026-07-07T23:42:35Z",
+    "stargazerCount": 182,
+    "updatedAt": "2026-07-14T19:25:35Z",
     "url": "https://github.com/rose-pine/cursors",
     "usesCustomOpenGraphImage": true
   },
@@ -280,8 +295,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3053,
-    "updatedAt": "2026-07-14T01:09:54Z",
+    "stargazerCount": 3054,
+    "updatedAt": "2026-07-14T13:06:19Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -373,21 +388,6 @@
     "updatedAt": "2026-06-07T16:31:35Z",
     "url": "https://github.com/rose-pine/rmpc",
     "usesCustomOpenGraphImage": false
-  },
-  {
-    "description": "Soho vibes for Wallpapers",
-    "homepageUrl": "",
-    "name": "wallpapers",
-    "repositoryTopics": [
-      "wallpapers",
-      "soho-vibes",
-      "rose-pine",
-      "theme"
-    ],
-    "stargazerCount": 438,
-    "updatedAt": "2026-07-13T22:33:33Z",
-    "url": "https://github.com/rose-pine/wallpapers",
-    "usesCustomOpenGraphImage": true
   },
   {
     "description": "Soho vibes for tmux",
@@ -763,8 +763,8 @@
     "repositoryTopics": [
       "theme"
     ],
-    "stargazerCount": 7,
-    "updatedAt": "2025-11-05T14:51:21Z",
+    "stargazerCount": 8,
+    "updatedAt": "2026-07-14T16:28:22Z",
     "url": "https://github.com/rose-pine/whoogle",
     "usesCustomOpenGraphImage": true
   },
@@ -1304,8 +1304,8 @@
       "obsstudio",
       "theme"
     ],
-    "stargazerCount": 7,
-    "updatedAt": "2026-04-02T18:30:07Z",
+    "stargazerCount": 8,
+    "updatedAt": "2026-07-14T05:03:25Z",
     "url": "https://github.com/rose-pine/obs",
     "usesCustomOpenGraphImage": false
   },
