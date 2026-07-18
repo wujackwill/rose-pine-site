@@ -5,9 +5,19 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 109,
-    "updatedAt": "2026-07-17T02:05:06Z",
+    "updatedAt": "2026-07-18T01:54:01Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Ableton Live",
+    "homepageUrl": "",
+    "name": "ableton-live",
+    "repositoryTopics": [],
+    "stargazerCount": 5,
+    "updatedAt": "2026-07-09T16:22:10Z",
+    "url": "https://github.com/rose-pine/ableton-live",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for Visual Studio Code",
@@ -38,8 +48,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 446,
-    "updatedAt": "2026-07-16T20:39:48Z",
+    "stargazerCount": 445,
+    "updatedAt": "2026-07-17T09:57:08Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -83,16 +93,6 @@
     "updatedAt": "2026-07-17T00:55:53Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Ableton Live",
-    "homepageUrl": "",
-    "name": "ableton-live",
-    "repositoryTopics": [],
-    "stargazerCount": 5,
-    "updatedAt": "2026-07-09T16:22:10Z",
-    "url": "https://github.com/rose-pine/ableton-live",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "",
@@ -265,8 +265,8 @@
     "homepageUrl": "",
     "name": "zed",
     "repositoryTopics": [],
-    "stargazerCount": 63,
-    "updatedAt": "2026-07-11T22:20:18Z",
+    "stargazerCount": 64,
+    "updatedAt": "2026-07-18T01:57:18Z",
     "url": "https://github.com/rose-pine/zed",
     "usesCustomOpenGraphImage": true
   },
@@ -314,8 +314,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3056,
-    "updatedAt": "2026-07-16T05:42:26Z",
+    "stargazerCount": 3060,
+    "updatedAt": "2026-07-17T21:53:29Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -1494,8 +1494,8 @@
       "kde",
       "qt"
     ],
-    "stargazerCount": 7,
-    "updatedAt": "2026-05-04T13:23:20Z",
+    "stargazerCount": 8,
+    "updatedAt": "2026-07-17T11:57:59Z",
     "url": "https://github.com/rose-pine/kvantum",
     "usesCustomOpenGraphImage": false
   },
