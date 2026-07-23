@@ -5,8 +5,37 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 109,
-    "updatedAt": "2026-07-22T02:02:14Z",
+    "updatedAt": "2026-07-23T02:09:28Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for tmux",
+    "homepageUrl": "",
+    "name": "tmux",
+    "repositoryTopics": [
+      "app",
+      "terminal",
+      "tmux",
+      "theme"
+    ],
+    "stargazerCount": 271,
+    "updatedAt": "2026-07-23T00:08:57Z",
+    "url": "https://github.com/rose-pine/tmux",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Telegram",
+    "homepageUrl": "",
+    "name": "telegram",
+    "repositoryTopics": [
+      "telegram",
+      "theme",
+      "rose-pine"
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2026-07-22T16:42:04Z",
+    "url": "https://github.com/rose-pine/telegram",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -58,8 +87,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 452,
-    "updatedAt": "2026-07-21T08:20:17Z",
+    "stargazerCount": 453,
+    "updatedAt": "2026-07-22T19:14:25Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -73,8 +102,8 @@
       "userstyles",
       "stylus"
     ],
-    "stargazerCount": 50,
-    "updatedAt": "2026-07-12T00:00:27Z",
+    "stargazerCount": 49,
+    "updatedAt": "2026-07-22T05:09:00Z",
     "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
@@ -199,8 +228,8 @@
     "homepageUrl": "",
     "name": "cursors",
     "repositoryTopics": [],
-    "stargazerCount": 184,
-    "updatedAt": "2026-07-21T07:29:34Z",
+    "stargazerCount": 185,
+    "updatedAt": "2026-07-22T19:14:14Z",
     "url": "https://github.com/rose-pine/cursors",
     "usesCustomOpenGraphImage": true
   },
@@ -324,8 +353,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3060,
-    "updatedAt": "2026-07-21T16:40:14Z",
+    "stargazerCount": 3053,
+    "updatedAt": "2026-07-22T23:32:29Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -398,21 +427,6 @@
     "updatedAt": "2026-06-07T16:31:35Z",
     "url": "https://github.com/rose-pine/rmpc",
     "usesCustomOpenGraphImage": false
-  },
-  {
-    "description": "Soho vibes for tmux",
-    "homepageUrl": "",
-    "name": "tmux",
-    "repositoryTopics": [
-      "app",
-      "terminal",
-      "tmux",
-      "theme"
-    ],
-    "stargazerCount": 270,
-    "updatedAt": "2026-07-05T12:56:29Z",
-    "url": "https://github.com/rose-pine/tmux",
-    "usesCustomOpenGraphImage": true
   },
   {
     "description": "Soho vibes for Pure",
@@ -1613,8 +1627,8 @@
       "theme",
       "rose-pine"
     ],
-    "stargazerCount": 339,
-    "updatedAt": "2026-07-21T07:26:25Z",
+    "stargazerCount": 340,
+    "updatedAt": "2026-07-22T19:14:22Z",
     "url": "https://github.com/rose-pine/gtk",
     "usesCustomOpenGraphImage": true
   },
