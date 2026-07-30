@@ -4,9 +4,34 @@
     "homepageUrl": "https://rosepinetheme.com",
     "name": "rose-pine-site",
     "repositoryTopics": [],
-    "stargazerCount": 110,
-    "updatedAt": "2026-07-29T02:01:39Z",
+    "stargazerCount": 111,
+    "updatedAt": "2026-07-30T01:51:27Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Wallpapers inspired by Rosé Pine",
+    "homepageUrl": "",
+    "name": "wallpapers",
+    "repositoryTopics": [
+      "wallpapers",
+      "soho-vibes",
+      "rose-pine",
+      "theme"
+    ],
+    "stargazerCount": 467,
+    "updatedAt": "2026-07-29T15:12:46Z",
+    "url": "https://github.com/rose-pine/wallpapers",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Google Chrome",
+    "homepageUrl": "https://rosepinetheme.com",
+    "name": "google-chrome",
+    "repositoryTopics": [],
+    "stargazerCount": 70,
+    "updatedAt": "2026-07-29T09:35:27Z",
+    "url": "https://github.com/rose-pine/google-chrome",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -68,8 +93,8 @@
     "homepageUrl": "",
     "name": "ghostty",
     "repositoryTopics": [],
-    "stargazerCount": 65,
-    "updatedAt": "2026-07-21T15:27:14Z",
+    "stargazerCount": 66,
+    "updatedAt": "2026-07-29T05:35:24Z",
     "url": "https://github.com/rose-pine/ghostty",
     "usesCustomOpenGraphImage": true
   },
@@ -97,24 +122,9 @@
       "visual-studio-code",
       "editor"
     ],
-    "stargazerCount": 603,
-    "updatedAt": "2026-07-27T16:26:59Z",
+    "stargazerCount": 604,
+    "updatedAt": "2026-07-29T08:32:24Z",
     "url": "https://github.com/rose-pine/vscode",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Wallpapers inspired by Rosé Pine",
-    "homepageUrl": "",
-    "name": "wallpapers",
-    "repositoryTopics": [
-      "wallpapers",
-      "soho-vibes",
-      "rose-pine",
-      "theme"
-    ],
-    "stargazerCount": 465,
-    "updatedAt": "2026-07-28T23:12:25Z",
-    "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -128,8 +138,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1595,
-    "updatedAt": "2026-07-24T09:29:35Z",
+    "stargazerCount": 1596,
+    "updatedAt": "2026-07-30T01:16:02Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -304,8 +314,8 @@
     "homepageUrl": "",
     "name": "zed",
     "repositoryTopics": [],
-    "stargazerCount": 64,
-    "updatedAt": "2026-07-18T01:57:18Z",
+    "stargazerCount": 65,
+    "updatedAt": "2026-07-29T05:03:43Z",
     "url": "https://github.com/rose-pine/zed",
     "usesCustomOpenGraphImage": true
   },
@@ -353,8 +363,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3056,
-    "updatedAt": "2026-07-28T14:39:21Z",
+    "stargazerCount": 3057,
+    "updatedAt": "2026-07-29T23:43:34Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -647,8 +657,8 @@
     "repositoryTopics": [
       "theme"
     ],
-    "stargazerCount": 28,
-    "updatedAt": "2026-06-11T21:57:32Z",
+    "stargazerCount": 29,
+    "updatedAt": "2026-07-29T05:19:38Z",
     "url": "https://github.com/rose-pine/rofi",
     "usesCustomOpenGraphImage": true
   },
@@ -1029,8 +1039,8 @@
       "shell",
       "terminal"
     ],
-    "stargazerCount": 77,
-    "updatedAt": "2026-07-26T14:22:28Z",
+    "stargazerCount": 78,
+    "updatedAt": "2026-07-29T17:42:00Z",
     "url": "https://github.com/rose-pine/starship",
     "usesCustomOpenGraphImage": false
   },
@@ -1645,16 +1655,6 @@
     "stargazerCount": 21,
     "updatedAt": "2026-04-27T04:56:17Z",
     "url": "https://github.com/rose-pine/grub",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Google Chrome",
-    "homepageUrl": "https://rosepinetheme.com",
-    "name": "google-chrome",
-    "repositoryTopics": [],
-    "stargazerCount": 70,
-    "updatedAt": "2026-07-24T08:14:02Z",
-    "url": "https://github.com/rose-pine/google-chrome",
     "usesCustomOpenGraphImage": true
   },
   {
