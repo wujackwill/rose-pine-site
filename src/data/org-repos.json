@@ -5,9 +5,31 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-07-30T01:51:27Z",
+    "updatedAt": "2026-07-31T02:09:48Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Zed",
+    "homepageUrl": "",
+    "name": "zed",
+    "repositoryTopics": [],
+    "stargazerCount": 65,
+    "updatedAt": "2026-07-30T18:18:21Z",
+    "url": "https://github.com/rose-pine/zed",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Obsidian",
+    "homepageUrl": "",
+    "name": "obsidian",
+    "repositoryTopics": [
+      "app"
+    ],
+    "stargazerCount": 28,
+    "updatedAt": "2026-07-30T07:36:25Z",
+    "url": "https://github.com/rose-pine/obsidian",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Wallpapers inspired by Rosé Pine",
@@ -19,8 +41,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 467,
-    "updatedAt": "2026-07-29T15:12:46Z",
+    "stargazerCount": 469,
+    "updatedAt": "2026-07-30T19:07:31Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -138,8 +160,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1596,
-    "updatedAt": "2026-07-30T01:16:02Z",
+    "stargazerCount": 1597,
+    "updatedAt": "2026-07-30T13:48:58Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -310,16 +332,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for Zed",
-    "homepageUrl": "",
-    "name": "zed",
-    "repositoryTopics": [],
-    "stargazerCount": 65,
-    "updatedAt": "2026-07-29T05:03:43Z",
-    "url": "https://github.com/rose-pine/zed",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Soho vibes for Vim",
     "homepageUrl": "",
     "name": "vim",
@@ -363,8 +375,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3057,
-    "updatedAt": "2026-07-29T23:43:34Z",
+    "stargazerCount": 3059,
+    "updatedAt": "2026-07-30T21:20:14Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -523,8 +535,8 @@
       "addon",
       "firefox-extension"
     ],
-    "stargazerCount": 100,
-    "updatedAt": "2026-06-22T09:55:51Z",
+    "stargazerCount": 99,
+    "updatedAt": "2026-07-30T10:27:05Z",
     "url": "https://github.com/rose-pine/firefox",
     "usesCustomOpenGraphImage": true
   },
@@ -1305,18 +1317,6 @@
     "updatedAt": "2026-06-01T21:15:48Z",
     "url": "https://github.com/rose-pine/ollama-webui",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Obsidian",
-    "homepageUrl": "",
-    "name": "obsidian",
-    "repositoryTopics": [
-      "app"
-    ],
-    "stargazerCount": 28,
-    "updatedAt": "2026-07-26T21:18:35Z",
-    "url": "https://github.com/rose-pine/obsidian",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for OBS Studio",
