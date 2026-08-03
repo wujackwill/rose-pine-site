@@ -5,8 +5,23 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-08-02T02:07:57Z",
+    "updatedAt": "2026-08-03T02:10:12Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Userstyles",
+    "homepageUrl": "",
+    "name": "userstyles",
+    "repositoryTopics": [
+      "css",
+      "stylish",
+      "userstyles",
+      "stylus"
+    ],
+    "stargazerCount": 50,
+    "updatedAt": "2026-08-02T15:16:36Z",
+    "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -41,8 +56,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 468,
-    "updatedAt": "2026-08-01T22:20:48Z",
+    "stargazerCount": 469,
+    "updatedAt": "2026-08-02T19:03:54Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -94,21 +109,6 @@
     "updatedAt": "2026-07-11T19:41:58Z",
     "url": "https://github.com/rose-pine/rose-pine-bloom",
     "usesCustomOpenGraphImage": false
-  },
-  {
-    "description": "Soho vibes for Userstyles",
-    "homepageUrl": "",
-    "name": "userstyles",
-    "repositoryTopics": [
-      "css",
-      "stylish",
-      "userstyles",
-      "stylus"
-    ],
-    "stargazerCount": 49,
-    "updatedAt": "2026-07-24T12:33:47Z",
-    "url": "https://github.com/rose-pine/userstyles",
-    "usesCustomOpenGraphImage": true
   },
   {
     "description": "Soho vibes for Ghostty",
@@ -375,8 +375,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3063,
-    "updatedAt": "2026-08-01T15:50:27Z",
+    "stargazerCount": 3064,
+    "updatedAt": "2026-08-02T12:23:07Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
