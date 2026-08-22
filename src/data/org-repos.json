@@ -1,5 +1,15 @@
 [
   {
+    "description": "Generate Rosé Pine themes",
+    "homepageUrl": "",
+    "name": "rose-pine-bloom",
+    "repositoryTopics": [],
+    "stargazerCount": 21,
+    "updatedAt": "2026-08-21T14:59:53Z",
+    "url": "https://github.com/rose-pine/rose-pine-bloom",
+    "usesCustomOpenGraphImage": false
+  },
+  {
     "description": "The Rosé Pine garden",
     "homepageUrl": "https://rosepinetheme.com",
     "name": "rose-pine-site",
@@ -37,7 +47,7 @@
       "theme"
     ],
     "stargazerCount": 504,
-    "updatedAt": "2026-08-20T07:18:41Z",
+    "updatedAt": "2026-08-21T12:20:09Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -130,16 +140,6 @@
     "updatedAt": "2026-08-05T18:51:01Z",
     "url": "https://github.com/rose-pine/tmux",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Generate Rosé Pine themes",
-    "homepageUrl": "",
-    "name": "rose-pine-bloom",
-    "repositoryTopics": [],
-    "stargazerCount": 21,
-    "updatedAt": "2026-07-11T19:41:58Z",
-    "url": "https://github.com/rose-pine/rose-pine-bloom",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for Ghostty",
@@ -291,8 +291,8 @@
     "homepageUrl": "",
     "name": "cursors",
     "repositoryTopics": [],
-    "stargazerCount": 183,
-    "updatedAt": "2026-08-17T06:28:20Z",
+    "stargazerCount": 184,
+    "updatedAt": "2026-08-21T16:30:47Z",
     "url": "https://github.com/rose-pine/cursors",
     "usesCustomOpenGraphImage": true
   },
@@ -406,8 +406,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3072,
-    "updatedAt": "2026-08-18T23:04:55Z",
+    "stargazerCount": 3073,
+    "updatedAt": "2026-08-21T12:42:20Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -586,8 +586,8 @@
     "homepageUrl": "",
     "name": "yazi",
     "repositoryTopics": [],
-    "stargazerCount": 19,
-    "updatedAt": "2026-08-08T17:59:15Z",
+    "stargazerCount": 20,
+    "updatedAt": "2026-08-22T00:58:59Z",
     "url": "https://github.com/rose-pine/yazi",
     "usesCustomOpenGraphImage": false
   },
@@ -859,8 +859,8 @@
       "vivaldi",
       "vivaldi-theme"
     ],
-    "stargazerCount": 8,
-    "updatedAt": "2025-12-01T04:29:35Z",
+    "stargazerCount": 9,
+    "updatedAt": "2026-08-21T16:30:12Z",
     "url": "https://github.com/rose-pine/vivaldi",
     "usesCustomOpenGraphImage": true
   },
@@ -1082,8 +1082,8 @@
       "shell",
       "terminal"
     ],
-    "stargazerCount": 80,
-    "updatedAt": "2026-08-08T17:55:22Z",
+    "stargazerCount": 81,
+    "updatedAt": "2026-08-21T16:31:00Z",
     "url": "https://github.com/rose-pine/starship",
     "usesCustomOpenGraphImage": false
   },
@@ -1566,8 +1566,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 20,
-    "updatedAt": "2026-07-31T23:38:05Z",
+    "stargazerCount": 21,
+    "updatedAt": "2026-08-21T16:30:16Z",
     "url": "https://github.com/rose-pine/konsole",
     "usesCustomOpenGraphImage": true
   },
