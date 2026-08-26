@@ -5,8 +5,24 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 110,
-    "updatedAt": "2026-08-24T00:54:49Z",
+    "updatedAt": "2026-08-26T00:55:39Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Atuin",
+    "homepageUrl": "",
+    "name": "atuin",
+    "repositoryTopics": [
+      "atuin",
+      "colorscheme",
+      "rose-pine",
+      "terminal",
+      "theme"
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2026-08-25T14:27:08Z",
+    "url": "https://github.com/rose-pine/atuin",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -60,8 +76,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 507,
-    "updatedAt": "2026-08-24T21:37:28Z",
+    "stargazerCount": 510,
+    "updatedAt": "2026-08-25T20:33:52Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -121,8 +137,8 @@
     "homepageUrl": "https://rosepinetheme.com",
     "name": "google-chrome",
     "repositoryTopics": [],
-    "stargazerCount": 72,
-    "updatedAt": "2026-08-08T17:50:34Z",
+    "stargazerCount": 73,
+    "updatedAt": "2026-08-25T10:31:49Z",
     "url": "https://github.com/rose-pine/google-chrome",
     "usesCustomOpenGraphImage": true
   },
@@ -255,8 +271,8 @@
       "discord",
       "hacktoberfest"
     ],
-    "stargazerCount": 126,
-    "updatedAt": "2026-08-22T21:17:22Z",
+    "stargazerCount": 127,
+    "updatedAt": "2026-08-25T02:27:47Z",
     "url": "https://github.com/rose-pine/discord",
     "usesCustomOpenGraphImage": true
   },
