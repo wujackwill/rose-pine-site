@@ -5,7 +5,7 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 110,
-    "updatedAt": "2026-08-28T08:32:46Z",
+    "updatedAt": "2026-08-28T13:07:52Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
   },
@@ -20,7 +20,7 @@
       "stylus"
     ],
     "stargazerCount": 51,
-    "updatedAt": "2026-08-27T09:22:17Z",
+    "updatedAt": "2026-08-28T10:52:58Z",
     "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
@@ -115,8 +115,8 @@
     "homepageUrl": "",
     "name": "zed",
     "repositoryTopics": [],
-    "stargazerCount": 66,
-    "updatedAt": "2026-08-24T00:48:56Z",
+    "stargazerCount": 67,
+    "updatedAt": "2026-08-28T19:23:04Z",
     "url": "https://github.com/rose-pine/zed",
     "usesCustomOpenGraphImage": true
   },
@@ -422,8 +422,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3078,
-    "updatedAt": "2026-08-28T05:36:02Z",
+    "stargazerCount": 3079,
+    "updatedAt": "2026-08-29T01:28:53Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
