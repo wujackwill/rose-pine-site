@@ -5,8 +5,23 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-08-29T08:44:22Z",
+    "updatedAt": "2026-09-02T02:23:22Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for tmux",
+    "homepageUrl": "",
+    "name": "tmux",
+    "repositoryTopics": [
+      "app",
+      "terminal",
+      "tmux",
+      "theme"
+    ],
+    "stargazerCount": 277,
+    "updatedAt": "2026-09-01T17:28:20Z",
+    "url": "https://github.com/rose-pine/tmux",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -91,8 +106,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 518,
-    "updatedAt": "2026-08-31T23:00:52Z",
+    "stargazerCount": 520,
+    "updatedAt": "2026-09-02T00:30:26Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -140,21 +155,6 @@
     "stargazerCount": 73,
     "updatedAt": "2026-08-25T10:31:49Z",
     "url": "https://github.com/rose-pine/google-chrome",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for tmux",
-    "homepageUrl": "",
-    "name": "tmux",
-    "repositoryTopics": [
-      "app",
-      "terminal",
-      "tmux",
-      "theme"
-    ],
-    "stargazerCount": 277,
-    "updatedAt": "2026-08-31T22:34:12Z",
-    "url": "https://github.com/rose-pine/tmux",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -207,8 +207,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1603,
-    "updatedAt": "2026-08-31T23:00:29Z",
+    "stargazerCount": 1604,
+    "updatedAt": "2026-09-01T11:19:01Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -422,8 +422,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3083,
-    "updatedAt": "2026-09-01T02:27:37Z",
+    "stargazerCount": 3084,
+    "updatedAt": "2026-09-01T19:11:21Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -482,8 +482,8 @@
       "editor",
       "hacktoberfest"
     ],
-    "stargazerCount": 39,
-    "updatedAt": "2026-08-03T12:44:50Z",
+    "stargazerCount": 40,
+    "updatedAt": "2026-09-02T01:37:37Z",
     "url": "https://github.com/rose-pine/helix",
     "usesCustomOpenGraphImage": true
   },
