@@ -5,8 +5,24 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-09-06T00:42:37Z",
+    "updatedAt": "2026-09-07T02:20:05Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Godot",
+    "homepageUrl": "",
+    "name": "godot",
+    "repositoryTopics": [
+      "colorscheme",
+      "gdscript",
+      "godot",
+      "rose-pine",
+      "theme"
+    ],
+    "stargazerCount": 1,
+    "updatedAt": "2026-09-06T20:25:02Z",
+    "url": "https://github.com/rose-pine/godot",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -134,8 +150,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 525,
-    "updatedAt": "2026-09-05T17:37:10Z",
+    "stargazerCount": 527,
+    "updatedAt": "2026-09-06T18:31:18Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -440,8 +456,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3087,
-    "updatedAt": "2026-09-06T00:22:38Z",
+    "stargazerCount": 3089,
+    "updatedAt": "2026-09-07T01:05:35Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -1161,8 +1177,8 @@
       "sharex",
       "theme"
     ],
-    "stargazerCount": 7,
-    "updatedAt": "2026-06-26T04:32:16Z",
+    "stargazerCount": 8,
+    "updatedAt": "2026-09-06T14:30:47Z",
     "url": "https://github.com/rose-pine/sharex",
     "usesCustomOpenGraphImage": false
   },
@@ -1702,8 +1718,8 @@
       "theme",
       "rose-pine"
     ],
-    "stargazerCount": 343,
-    "updatedAt": "2026-08-23T19:07:55Z",
+    "stargazerCount": 344,
+    "updatedAt": "2026-09-06T23:27:46Z",
     "url": "https://github.com/rose-pine/gtk",
     "usesCustomOpenGraphImage": true
   },
