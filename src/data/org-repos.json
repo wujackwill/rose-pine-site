@@ -5,7 +5,7 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-09-07T02:20:05Z",
+    "updatedAt": "2026-09-08T02:32:55Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
   },
@@ -20,10 +20,22 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 1,
-    "updatedAt": "2026-09-06T20:25:02Z",
+    "stargazerCount": 2,
+    "updatedAt": "2026-09-07T18:50:55Z",
     "url": "https://github.com/rose-pine/godot",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Obsidian",
+    "homepageUrl": "",
+    "name": "obsidian",
+    "repositoryTopics": [
+      "app"
+    ],
+    "stargazerCount": 28,
+    "updatedAt": "2026-09-07T08:54:13Z",
+    "url": "https://github.com/rose-pine/obsidian",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Rosé Pine community health files",
@@ -150,8 +162,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 527,
-    "updatedAt": "2026-09-06T18:31:18Z",
+    "stargazerCount": 529,
+    "updatedAt": "2026-09-07T18:06:52Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -178,18 +190,6 @@
     "updatedAt": "2026-08-29T22:10:30Z",
     "url": "https://github.com/rose-pine/zed",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Obsidian",
-    "homepageUrl": "",
-    "name": "obsidian",
-    "repositoryTopics": [
-      "app"
-    ],
-    "stargazerCount": 28,
-    "updatedAt": "2026-07-30T07:36:25Z",
-    "url": "https://github.com/rose-pine/obsidian",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for Google Chrome",
@@ -1865,8 +1865,8 @@
       "app",
       "theme"
     ],
-    "stargazerCount": 9,
-    "updatedAt": "2026-08-16T16:04:32Z",
+    "stargazerCount": 10,
+    "updatedAt": "2026-09-07T12:42:12Z",
     "url": "https://github.com/rose-pine/fcitx5",
     "usesCustomOpenGraphImage": true
   },
