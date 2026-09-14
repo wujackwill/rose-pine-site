@@ -5,9 +5,19 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-09-12T02:37:24Z",
+    "updatedAt": "2026-09-14T02:51:45Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Generate Rosé Pine themes",
+    "homepageUrl": "",
+    "name": "rose-pine-bloom",
+    "repositoryTopics": [],
+    "stargazerCount": 23,
+    "updatedAt": "2026-09-13T15:26:23Z",
+    "url": "https://github.com/rose-pine/rose-pine-bloom",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for Godot",
@@ -20,8 +30,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 2,
-    "updatedAt": "2026-09-07T18:50:55Z",
+    "stargazerCount": 3,
+    "updatedAt": "2026-09-13T05:54:50Z",
     "url": "https://github.com/rose-pine/godot",
     "usesCustomOpenGraphImage": true
   },
@@ -90,8 +100,8 @@
       "userstyles",
       "stylus"
     ],
-    "stargazerCount": 51,
-    "updatedAt": "2026-08-28T10:52:58Z",
+    "stargazerCount": 52,
+    "updatedAt": "2026-09-13T05:23:49Z",
     "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
@@ -126,16 +136,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Generate Rosé Pine themes",
-    "homepageUrl": "",
-    "name": "rose-pine-bloom",
-    "repositoryTopics": [],
-    "stargazerCount": 23,
-    "updatedAt": "2026-09-04T15:08:15Z",
-    "url": "https://github.com/rose-pine/rose-pine-bloom",
-    "usesCustomOpenGraphImage": false
-  },
-  {
     "description": "Soho vibes for eza",
     "homepageUrl": "",
     "name": "eza",
@@ -162,8 +162,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 536,
-    "updatedAt": "2026-09-12T18:12:44Z",
+    "stargazerCount": 538,
+    "updatedAt": "2026-09-14T02:13:58Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -251,8 +251,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1608,
-    "updatedAt": "2026-09-11T00:39:20Z",
+    "stargazerCount": 1609,
+    "updatedAt": "2026-09-13T22:03:58Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -1119,8 +1119,8 @@
       "theme",
       "rose-pine"
     ],
-    "stargazerCount": 31,
-    "updatedAt": "2026-04-16T12:51:05Z",
+    "stargazerCount": 30,
+    "updatedAt": "2026-09-13T22:04:00Z",
     "url": "https://github.com/rose-pine/startpage",
     "usesCustomOpenGraphImage": true
   },
@@ -1409,8 +1409,8 @@
       "obsstudio",
       "theme"
     ],
-    "stargazerCount": 9,
-    "updatedAt": "2026-08-31T19:41:16Z",
+    "stargazerCount": 10,
+    "updatedAt": "2026-09-13T05:51:32Z",
     "url": "https://github.com/rose-pine/obs",
     "usesCustomOpenGraphImage": false
   },
