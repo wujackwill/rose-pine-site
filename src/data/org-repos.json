@@ -5,9 +5,21 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-09-14T02:51:45Z",
+    "updatedAt": "2026-09-15T02:54:30Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Obsidian",
+    "homepageUrl": "",
+    "name": "obsidian",
+    "repositoryTopics": [
+      "app"
+    ],
+    "stargazerCount": 29,
+    "updatedAt": "2026-09-15T00:32:08Z",
+    "url": "https://github.com/rose-pine/obsidian",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Generate Rosé Pine themes",
@@ -34,18 +46,6 @@
     "updatedAt": "2026-09-13T05:54:50Z",
     "url": "https://github.com/rose-pine/godot",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Obsidian",
-    "homepageUrl": "",
-    "name": "obsidian",
-    "repositoryTopics": [
-      "app"
-    ],
-    "stargazerCount": 29,
-    "updatedAt": "2026-09-11T05:18:45Z",
-    "url": "https://github.com/rose-pine/obsidian",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Rosé Pine community health files",
@@ -162,8 +162,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 538,
-    "updatedAt": "2026-09-14T02:13:58Z",
+    "stargazerCount": 539,
+    "updatedAt": "2026-09-14T20:57:45Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -206,8 +206,8 @@
     "homepageUrl": "",
     "name": "ghostty",
     "repositoryTopics": [],
-    "stargazerCount": 65,
-    "updatedAt": "2026-08-29T22:10:39Z",
+    "stargazerCount": 66,
+    "updatedAt": "2026-09-14T21:03:09Z",
     "url": "https://github.com/rose-pine/ghostty",
     "usesCustomOpenGraphImage": true
   },
@@ -456,8 +456,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3091,
-    "updatedAt": "2026-09-12T12:23:58Z",
+    "stargazerCount": 3093,
+    "updatedAt": "2026-09-14T07:20:47Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -1719,7 +1719,7 @@
       "rose-pine"
     ],
     "stargazerCount": 344,
-    "updatedAt": "2026-09-06T23:27:46Z",
+    "updatedAt": "2026-09-14T17:31:24Z",
     "url": "https://github.com/rose-pine/gtk",
     "usesCustomOpenGraphImage": true
   },
