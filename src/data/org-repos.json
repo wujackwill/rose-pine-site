@@ -5,8 +5,23 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-09-16T02:49:56Z",
+    "updatedAt": "2026-09-17T02:54:09Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Userstyles",
+    "homepageUrl": "",
+    "name": "userstyles",
+    "repositoryTopics": [
+      "css",
+      "stylish",
+      "userstyles",
+      "stylus"
+    ],
+    "stargazerCount": 52,
+    "updatedAt": "2026-09-16T16:11:42Z",
+    "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -88,21 +103,6 @@
     "stargazerCount": 278,
     "updatedAt": "2026-09-05T20:38:57Z",
     "url": "https://github.com/rose-pine/tmux",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Userstyles",
-    "homepageUrl": "",
-    "name": "userstyles",
-    "repositoryTopics": [
-      "css",
-      "stylish",
-      "userstyles",
-      "stylus"
-    ],
-    "stargazerCount": 52,
-    "updatedAt": "2026-09-13T05:23:49Z",
-    "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -251,8 +251,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1609,
-    "updatedAt": "2026-09-13T22:03:58Z",
+    "stargazerCount": 1611,
+    "updatedAt": "2026-09-16T20:53:15Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -972,8 +972,8 @@
     "repositoryTopics": [
       "music"
     ],
-    "stargazerCount": 9,
-    "updatedAt": "2025-12-22T21:16:02Z",
+    "stargazerCount": 10,
+    "updatedAt": "2026-09-16T20:53:42Z",
     "url": "https://github.com/rose-pine/tidal",
     "usesCustomOpenGraphImage": true
   },
@@ -2153,8 +2153,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 45,
-    "updatedAt": "2026-08-04T01:58:54Z",
+    "stargazerCount": 46,
+    "updatedAt": "2026-09-16T12:50:26Z",
     "url": "https://github.com/rose-pine/terminal.app",
     "usesCustomOpenGraphImage": true
   },
