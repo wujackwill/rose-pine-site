@@ -5,9 +5,34 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-09-28T03:02:03Z",
+    "updatedAt": "2026-09-29T03:41:55Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for FUTO Keyboard",
+    "homepageUrl": "",
+    "name": "futo",
+    "repositoryTopics": [
+      "futo-keyboard",
+      "rose-pine",
+      "theme",
+      "soho-vibes"
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2026-09-29T00:44:03Z",
+    "url": "https://github.com/rose-pine/futo",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Generate Rosé Pine themes",
+    "homepageUrl": "",
+    "name": "rose-pine-bloom",
+    "repositoryTopics": [],
+    "stargazerCount": 23,
+    "updatedAt": "2026-09-28T18:01:12Z",
+    "url": "https://github.com/rose-pine/rose-pine-bloom",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for Zed",
@@ -74,16 +99,6 @@
     "stargazerCount": 29,
     "updatedAt": "2026-09-15T00:32:08Z",
     "url": "https://github.com/rose-pine/obsidian",
-    "usesCustomOpenGraphImage": false
-  },
-  {
-    "description": "Generate Rosé Pine themes",
-    "homepageUrl": "",
-    "name": "rose-pine-bloom",
-    "repositoryTopics": [],
-    "stargazerCount": 23,
-    "updatedAt": "2026-09-13T15:26:23Z",
-    "url": "https://github.com/rose-pine/rose-pine-bloom",
     "usesCustomOpenGraphImage": false
   },
   {
@@ -188,8 +203,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 547,
-    "updatedAt": "2026-09-28T03:34:43Z",
+    "stargazerCount": 549,
+    "updatedAt": "2026-09-28T10:11:09Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -267,8 +282,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1618,
-    "updatedAt": "2026-09-27T10:38:14Z",
+    "stargazerCount": 1621,
+    "updatedAt": "2026-09-29T00:57:37Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -1203,8 +1218,8 @@
       "color",
       "css"
     ],
-    "stargazerCount": 39,
-    "updatedAt": "2026-08-15T02:31:55Z",
+    "stargazerCount": 40,
+    "updatedAt": "2026-09-28T20:14:27Z",
     "url": "https://github.com/rose-pine/rose-pine-palette",
     "usesCustomOpenGraphImage": true
   },
