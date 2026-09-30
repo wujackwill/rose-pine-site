@@ -5,9 +5,25 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-09-29T03:41:55Z",
+    "updatedAt": "2026-09-30T03:29:20Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for leaf",
+    "homepageUrl": "",
+    "name": "leaf",
+    "repositoryTopics": [
+      "leaf",
+      "markdown",
+      "rose-pine",
+      "soho-vibes",
+      "theme"
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2026-09-29T16:38:30Z",
+    "url": "https://github.com/rose-pine/leaf",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for FUTO Keyboard",
@@ -96,8 +112,8 @@
     "repositoryTopics": [
       "app"
     ],
-    "stargazerCount": 29,
-    "updatedAt": "2026-09-15T00:32:08Z",
+    "stargazerCount": 30,
+    "updatedAt": "2026-09-29T05:31:37Z",
     "url": "https://github.com/rose-pine/obsidian",
     "usesCustomOpenGraphImage": false
   },
@@ -203,8 +219,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 549,
-    "updatedAt": "2026-09-28T10:11:09Z",
+    "stargazerCount": 550,
+    "updatedAt": "2026-09-29T11:19:33Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -455,7 +471,7 @@
       "editor"
     ],
     "stargazerCount": 53,
-    "updatedAt": "2026-09-24T22:00:38Z",
+    "updatedAt": "2026-09-29T16:40:38Z",
     "url": "https://github.com/rose-pine/vim",
     "usesCustomOpenGraphImage": true
   },
@@ -487,8 +503,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3097,
-    "updatedAt": "2026-09-27T14:28:51Z",
+    "stargazerCount": 3099,
+    "updatedAt": "2026-09-29T13:29:58Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
