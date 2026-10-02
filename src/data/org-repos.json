@@ -5,8 +5,18 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-10-01T03:34:39Z",
+    "updatedAt": "2026-10-02T03:34:43Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "",
+    "homepageUrl": "",
+    "name": "delta",
+    "repositoryTopics": [],
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-01T17:23:08Z",
+    "url": "https://github.com/rose-pine/delta",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -219,8 +229,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 550,
-    "updatedAt": "2026-09-29T11:19:33Z",
+    "stargazerCount": 551,
+    "updatedAt": "2026-10-01T20:56:26Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -425,8 +435,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 116,
-    "updatedAt": "2026-09-17T20:43:29Z",
+    "stargazerCount": 117,
+    "updatedAt": "2026-10-01T18:58:52Z",
     "url": "https://github.com/rose-pine/windows-terminal",
     "usesCustomOpenGraphImage": true
   },
@@ -1674,8 +1684,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 126,
-    "updatedAt": "2026-09-09T02:55:21Z",
+    "stargazerCount": 127,
+    "updatedAt": "2026-10-01T15:05:13Z",
     "url": "https://github.com/rose-pine/kitty",
     "usesCustomOpenGraphImage": true
   },
