@@ -5,9 +5,19 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-10-08T03:58:52Z",
+    "updatedAt": "2026-10-11T03:23:05Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Generate Rosé Pine themes",
+    "homepageUrl": "",
+    "name": "rose-pine-bloom",
+    "repositoryTopics": [],
+    "stargazerCount": 23,
+    "updatedAt": "2026-09-28T18:01:12Z",
+    "url": "https://github.com/rose-pine/rose-pine-bloom",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for fish",
@@ -34,16 +44,6 @@
     "updatedAt": "2026-10-07T01:03:21Z",
     "url": "https://github.com/rose-pine/delta",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Generate Rosé Pine themes",
-    "homepageUrl": "",
-    "name": "rose-pine-bloom",
-    "repositoryTopics": [],
-    "stargazerCount": 23,
-    "updatedAt": "2026-09-28T18:01:12Z",
-    "url": "https://github.com/rose-pine/rose-pine-bloom",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for leaf",
@@ -292,8 +292,8 @@
       "visual-studio-code",
       "editor"
     ],
-    "stargazerCount": 601,
-    "updatedAt": "2026-10-08T02:22:34Z",
+    "stargazerCount": 602,
+    "updatedAt": "2026-10-10T07:46:43Z",
     "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
@@ -513,8 +513,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3103,
-    "updatedAt": "2026-10-09T23:47:13Z",
+    "stargazerCount": 3104,
+    "updatedAt": "2026-10-10T07:49:22Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
