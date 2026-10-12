@@ -5,8 +5,22 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-10-11T03:23:05Z",
+    "updatedAt": "2026-10-12T03:46:10Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Telegram",
+    "homepageUrl": "",
+    "name": "telegram",
+    "repositoryTopics": [
+      "telegram",
+      "theme",
+      "rose-pine"
+    ],
+    "stargazerCount": 4,
+    "updatedAt": "2026-10-11T22:15:08Z",
+    "url": "https://github.com/rose-pine/telegram",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -84,20 +98,6 @@
     "stargazerCount": 67,
     "updatedAt": "2026-10-02T23:02:46Z",
     "url": "https://github.com/rose-pine/zed",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Telegram",
-    "homepageUrl": "",
-    "name": "telegram",
-    "repositoryTopics": [
-      "telegram",
-      "theme",
-      "rose-pine"
-    ],
-    "stargazerCount": 4,
-    "updatedAt": "2026-10-09T20:34:28Z",
-    "url": "https://github.com/rose-pine/telegram",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -229,8 +229,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 560,
-    "updatedAt": "2026-10-07T03:09:41Z",
+    "stargazerCount": 561,
+    "updatedAt": "2026-10-11T12:11:46Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -308,8 +308,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1626,
-    "updatedAt": "2026-10-08T15:25:23Z",
+    "stargazerCount": 1628,
+    "updatedAt": "2026-10-11T16:04:42Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -513,8 +513,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3104,
-    "updatedAt": "2026-10-10T07:49:22Z",
+    "stargazerCount": 3105,
+    "updatedAt": "2026-10-11T22:06:18Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -1792,8 +1792,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 57,
-    "updatedAt": "2026-10-02T20:28:54Z",
+    "stargazerCount": 58,
+    "updatedAt": "2026-10-12T01:55:43Z",
     "url": "https://github.com/rose-pine/gnome-terminal",
     "usesCustomOpenGraphImage": true
   },
