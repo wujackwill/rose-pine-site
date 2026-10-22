@@ -5,8 +5,39 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-10-20T19:03:47Z",
+    "updatedAt": "2026-10-22T02:56:32Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for leaf",
+    "homepageUrl": "",
+    "name": "leaf",
+    "repositoryTopics": [
+      "leaf",
+      "markdown",
+      "rose-pine",
+      "soho-vibes",
+      "theme"
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-21T14:20:07Z",
+    "url": "https://github.com/rose-pine/leaf",
+    "usesCustomOpenGraphImage": false
+  },
+  {
+    "description": "Soho vibes for Userstyles",
+    "homepageUrl": "",
+    "name": "userstyles",
+    "repositoryTopics": [
+      "css",
+      "stylish",
+      "userstyles",
+      "stylus"
+    ],
+    "stargazerCount": 50,
+    "updatedAt": "2026-10-21T08:09:40Z",
+    "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -60,22 +91,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for leaf",
-    "homepageUrl": "",
-    "name": "leaf",
-    "repositoryTopics": [
-      "leaf",
-      "markdown",
-      "rose-pine",
-      "soho-vibes",
-      "theme"
-    ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-09-29T16:38:30Z",
-    "url": "https://github.com/rose-pine/leaf",
-    "usesCustomOpenGraphImage": false
-  },
-  {
     "description": "Soho vibes for FUTO Keyboard",
     "homepageUrl": "",
     "name": "futo",
@@ -98,21 +113,6 @@
     "stargazerCount": 69,
     "updatedAt": "2026-10-15T10:54:21Z",
     "url": "https://github.com/rose-pine/zed",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Userstyles",
-    "homepageUrl": "",
-    "name": "userstyles",
-    "repositoryTopics": [
-      "css",
-      "stylish",
-      "userstyles",
-      "stylus"
-    ],
-    "stargazerCount": 50,
-    "updatedAt": "2026-10-06T18:37:52Z",
-    "url": "https://github.com/rose-pine/userstyles",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -308,8 +308,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1629,
-    "updatedAt": "2026-10-20T17:20:34Z",
+    "stargazerCount": 1630,
+    "updatedAt": "2026-10-21T04:01:52Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -513,8 +513,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3106,
-    "updatedAt": "2026-10-15T10:58:20Z",
+    "stargazerCount": 3105,
+    "updatedAt": "2026-10-21T20:43:07Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -677,8 +677,8 @@
     "homepageUrl": "",
     "name": "yazi",
     "repositoryTopics": [],
-    "stargazerCount": 20,
-    "updatedAt": "2026-10-15T16:27:20Z",
+    "stargazerCount": 21,
+    "updatedAt": "2026-10-21T20:09:53Z",
     "url": "https://github.com/rose-pine/yazi",
     "usesCustomOpenGraphImage": false
   },
