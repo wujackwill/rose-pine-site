@@ -5,8 +5,24 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-10-22T02:56:32Z",
+    "updatedAt": "2026-10-23T02:55:00Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for fish",
+    "homepageUrl": "",
+    "name": "fish",
+    "repositoryTopics": [
+      "theme",
+      "fish",
+      "soho-vibes",
+      "rose-pine",
+      "shell"
+    ],
+    "stargazerCount": 45,
+    "updatedAt": "2026-10-07T07:10:27Z",
+    "url": "https://github.com/rose-pine/fish",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -63,22 +79,6 @@
     "updatedAt": "2026-09-28T18:01:12Z",
     "url": "https://github.com/rose-pine/rose-pine-bloom",
     "usesCustomOpenGraphImage": false
-  },
-  {
-    "description": "Soho vibes for fish",
-    "homepageUrl": "",
-    "name": "fish",
-    "repositoryTopics": [
-      "theme",
-      "fish",
-      "soho-vibes",
-      "rose-pine",
-      "shell"
-    ],
-    "stargazerCount": 45,
-    "updatedAt": "2026-10-07T07:10:27Z",
-    "url": "https://github.com/rose-pine/fish",
-    "usesCustomOpenGraphImage": true
   },
   {
     "description": "",
@@ -229,8 +229,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 568,
-    "updatedAt": "2026-10-20T04:05:59Z",
+    "stargazerCount": 569,
+    "updatedAt": "2026-10-22T19:02:31Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -513,8 +513,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3105,
-    "updatedAt": "2026-10-21T20:43:07Z",
+    "stargazerCount": 3106,
+    "updatedAt": "2026-10-22T19:31:50Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
