@@ -5,8 +5,23 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-10-23T02:55:00Z",
+    "updatedAt": "2026-10-24T02:52:03Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Wallpapers inspired by Rosé Pine",
+    "homepageUrl": "",
+    "name": "wallpapers",
+    "repositoryTopics": [
+      "wallpapers",
+      "soho-vibes",
+      "rose-pine",
+      "theme"
+    ],
+    "stargazerCount": 569,
+    "updatedAt": "2026-10-23T15:39:41Z",
+    "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -220,21 +235,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Wallpapers inspired by Rosé Pine",
-    "homepageUrl": "",
-    "name": "wallpapers",
-    "repositoryTopics": [
-      "wallpapers",
-      "soho-vibes",
-      "rose-pine",
-      "theme"
-    ],
-    "stargazerCount": 569,
-    "updatedAt": "2026-10-22T19:02:31Z",
-    "url": "https://github.com/rose-pine/wallpapers",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Soho vibes for Home Assistant",
     "homepageUrl": "",
     "name": "home-assistant",
@@ -293,7 +293,7 @@
       "editor"
     ],
     "stargazerCount": 603,
-    "updatedAt": "2026-10-18T00:30:17Z",
+    "updatedAt": "2026-10-23T19:20:08Z",
     "url": "https://github.com/rose-pine/vscode",
     "usesCustomOpenGraphImage": true
   },
