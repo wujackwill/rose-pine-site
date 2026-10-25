@@ -5,9 +5,19 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 111,
-    "updatedAt": "2026-10-24T02:52:03Z",
+    "updatedAt": "2026-10-25T02:44:20Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Generate Rosé Pine themes",
+    "homepageUrl": "",
+    "name": "rose-pine-bloom",
+    "repositoryTopics": [],
+    "stargazerCount": 23,
+    "updatedAt": "2026-10-24T14:24:57Z",
+    "url": "https://github.com/rose-pine/rose-pine-bloom",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Wallpapers inspired by Rosé Pine",
@@ -19,8 +29,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 569,
-    "updatedAt": "2026-10-23T15:39:41Z",
+    "stargazerCount": 568,
+    "updatedAt": "2026-10-24T19:27:14Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -84,16 +94,6 @@
     "updatedAt": "2026-10-11T22:15:08Z",
     "url": "https://github.com/rose-pine/telegram",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Generate Rosé Pine themes",
-    "homepageUrl": "",
-    "name": "rose-pine-bloom",
-    "repositoryTopics": [],
-    "stargazerCount": 23,
-    "updatedAt": "2026-09-28T18:01:12Z",
-    "url": "https://github.com/rose-pine/rose-pine-bloom",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "",
