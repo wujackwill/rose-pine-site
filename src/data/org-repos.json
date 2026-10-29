@@ -5,9 +5,27 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 112,
-    "updatedAt": "2026-10-28T03:31:32Z",
+    "updatedAt": "2026-10-29T03:53:26Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Vis",
+    "homepageUrl": "",
+    "name": "vis",
+    "repositoryTopics": [
+      "rose-pine",
+      "rose-pine-moon",
+      "rose-pine-theme",
+      "soho-vibes",
+      "theme",
+      "themes",
+      "vis"
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-28T09:32:55Z",
+    "url": "https://github.com/rose-pine/vis",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Generate Rosé Pine themes",
@@ -29,8 +47,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 569,
-    "updatedAt": "2026-10-26T18:52:36Z",
+    "stargazerCount": 571,
+    "updatedAt": "2026-10-28T15:21:43Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -1792,8 +1810,8 @@
       "terminal",
       "terminal-emulator"
     ],
-    "stargazerCount": 58,
-    "updatedAt": "2026-10-12T01:55:43Z",
+    "stargazerCount": 59,
+    "updatedAt": "2026-10-28T12:26:22Z",
     "url": "https://github.com/rose-pine/gnome-terminal",
     "usesCustomOpenGraphImage": true
   },
