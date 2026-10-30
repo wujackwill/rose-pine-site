@@ -5,8 +5,23 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 112,
-    "updatedAt": "2026-10-29T03:53:26Z",
+    "updatedAt": "2026-10-30T03:55:22Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for GTK",
+    "homepageUrl": "",
+    "name": "gtk",
+    "repositoryTopics": [
+      "gtk",
+      "soho-vibes",
+      "theme",
+      "rose-pine"
+    ],
+    "stargazerCount": 342,
+    "updatedAt": "2026-10-29T15:06:14Z",
+    "url": "https://github.com/rose-pine/gtk",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -47,8 +62,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 571,
-    "updatedAt": "2026-10-28T15:21:43Z",
+    "stargazerCount": 570,
+    "updatedAt": "2026-10-29T07:32:31Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -326,8 +341,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1630,
-    "updatedAt": "2026-10-21T04:01:52Z",
+    "stargazerCount": 1631,
+    "updatedAt": "2026-10-29T06:06:13Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -1765,21 +1780,6 @@
     "stargazerCount": 7,
     "updatedAt": "2026-10-15T23:01:08Z",
     "url": "https://github.com/rose-pine/hljs",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for GTK",
-    "homepageUrl": "",
-    "name": "gtk",
-    "repositoryTopics": [
-      "gtk",
-      "soho-vibes",
-      "theme",
-      "rose-pine"
-    ],
-    "stargazerCount": 342,
-    "updatedAt": "2026-09-17T23:46:42Z",
-    "url": "https://github.com/rose-pine/gtk",
     "usesCustomOpenGraphImage": true
   },
   {
