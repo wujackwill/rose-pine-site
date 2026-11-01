@@ -5,9 +5,21 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 112,
-    "updatedAt": "2026-10-31T03:39:49Z",
+    "updatedAt": "2026-11-01T03:46:14Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
     "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Obsidian",
+    "homepageUrl": "",
+    "name": "obsidian",
+    "repositoryTopics": [
+      "app"
+    ],
+    "stargazerCount": 30,
+    "updatedAt": "2026-10-31T11:54:41Z",
+    "url": "https://github.com/rose-pine/obsidian",
+    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for GTK",
@@ -162,18 +174,6 @@
     "updatedAt": "2026-10-15T10:54:21Z",
     "url": "https://github.com/rose-pine/zed",
     "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Obsidian",
-    "homepageUrl": "",
-    "name": "obsidian",
-    "repositoryTopics": [
-      "app"
-    ],
-    "stargazerCount": 30,
-    "updatedAt": "2026-09-29T05:31:37Z",
-    "url": "https://github.com/rose-pine/obsidian",
-    "usesCustomOpenGraphImage": false
   },
   {
     "description": "Soho vibes for Godot",
@@ -441,8 +441,8 @@
     "homepageUrl": "",
     "name": "cursors",
     "repositoryTopics": [],
-    "stargazerCount": 187,
-    "updatedAt": "2026-10-31T00:17:13Z",
+    "stargazerCount": 188,
+    "updatedAt": "2026-10-31T06:17:36Z",
     "url": "https://github.com/rose-pine/cursors",
     "usesCustomOpenGraphImage": true
   },
@@ -967,8 +967,8 @@
       "theme",
       "color-palette"
     ],
-    "stargazerCount": 66,
-    "updatedAt": "2026-10-06T11:15:10Z",
+    "stargazerCount": 67,
+    "updatedAt": "2026-10-31T05:57:09Z",
     "url": "https://github.com/rose-pine/waybar",
     "usesCustomOpenGraphImage": true
   },
@@ -1512,8 +1512,8 @@
       "soho-vibes",
       "theme"
     ],
-    "stargazerCount": 2,
-    "updatedAt": "2025-11-05T14:50:21Z",
+    "stargazerCount": 3,
+    "updatedAt": "2026-10-31T06:15:55Z",
     "url": "https://github.com/rose-pine/ninjabrain-bot",
     "usesCustomOpenGraphImage": true
   },
@@ -1960,8 +1960,8 @@
       "theme",
       "mobile-app"
     ],
-    "stargazerCount": 21,
-    "updatedAt": "2026-06-27T09:07:17Z",
+    "stargazerCount": 22,
+    "updatedAt": "2026-10-31T16:26:52Z",
     "url": "https://github.com/rose-pine/discord-mobile",
     "usesCustomOpenGraphImage": true
   },
