@@ -5,8 +5,22 @@
     "name": "rose-pine-site",
     "repositoryTopics": [],
     "stargazerCount": 112,
-    "updatedAt": "2026-11-04T04:24:21Z",
+    "updatedAt": "2026-11-06T04:40:12Z",
     "url": "https://github.com/rose-pine/rose-pine-site",
+    "usesCustomOpenGraphImage": true
+  },
+  {
+    "description": "Soho vibes for Telegram",
+    "homepageUrl": "",
+    "name": "telegram",
+    "repositoryTopics": [
+      "telegram",
+      "theme",
+      "rose-pine"
+    ],
+    "stargazerCount": 3,
+    "updatedAt": "2026-11-05T12:23:54Z",
+    "url": "https://github.com/rose-pine/telegram",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -139,20 +153,6 @@
     "stargazerCount": 51,
     "updatedAt": "2026-10-31T02:42:27Z",
     "url": "https://github.com/rose-pine/userstyles",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Telegram",
-    "homepageUrl": "",
-    "name": "telegram",
-    "repositoryTopics": [
-      "telegram",
-      "theme",
-      "rose-pine"
-    ],
-    "stargazerCount": 3,
-    "updatedAt": "2026-11-02T00:45:25Z",
-    "url": "https://github.com/rose-pine/telegram",
     "usesCustomOpenGraphImage": true
   },
   {
@@ -497,8 +497,8 @@
       "tiling-window-manager",
       "theme"
     ],
-    "stargazerCount": 38,
-    "updatedAt": "2026-09-03T18:33:56Z",
+    "stargazerCount": 37,
+    "updatedAt": "2026-11-05T05:58:17Z",
     "url": "https://github.com/rose-pine/hyprland",
     "usesCustomOpenGraphImage": true
   },
