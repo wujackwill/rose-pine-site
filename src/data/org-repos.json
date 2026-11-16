@@ -1,5 +1,22 @@
 [
   {
+    "description": "Soho vibes for Helix",
+    "homepageUrl": "",
+    "name": "helix",
+    "repositoryTopics": [
+      "theme",
+      "soho-vibes",
+      "rose-pine",
+      "helix",
+      "editor",
+      "hacktoberfest"
+    ],
+    "stargazerCount": 40,
+    "updatedAt": "2026-09-02T01:37:37Z",
+    "url": "https://github.com/rose-pine/helix",
+    "usesCustomOpenGraphImage": true
+  },
+  {
     "description": "The Rosé Pine garden",
     "homepageUrl": "https://rosepinetheme.com",
     "name": "rose-pine-site",
@@ -103,8 +120,8 @@
       "rose-pine",
       "theme"
     ],
-    "stargazerCount": 582,
-    "updatedAt": "2026-11-14T08:31:36Z",
+    "stargazerCount": 583,
+    "updatedAt": "2026-11-16T03:10:21Z",
     "url": "https://github.com/rose-pine/wallpapers",
     "usesCustomOpenGraphImage": true
   },
@@ -341,8 +358,8 @@
       "palette",
       "aesthetic"
     ],
-    "stargazerCount": 1636,
-    "updatedAt": "2026-11-12T20:43:39Z",
+    "stargazerCount": 1637,
+    "updatedAt": "2026-11-15T08:55:07Z",
     "url": "https://github.com/rose-pine/rose-pine-theme",
     "usesCustomOpenGraphImage": true
   },
@@ -546,8 +563,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3111,
-    "updatedAt": "2026-11-13T23:12:57Z",
+    "stargazerCount": 3110,
+    "updatedAt": "2026-11-15T07:53:48Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
@@ -592,23 +609,6 @@
     "stargazerCount": 0,
     "updatedAt": "2026-04-30T18:08:18Z",
     "url": "https://github.com/rose-pine/tabby",
-    "usesCustomOpenGraphImage": true
-  },
-  {
-    "description": "Soho vibes for Helix",
-    "homepageUrl": "",
-    "name": "helix",
-    "repositoryTopics": [
-      "theme",
-      "soho-vibes",
-      "rose-pine",
-      "helix",
-      "editor",
-      "hacktoberfest"
-    ],
-    "stargazerCount": 40,
-    "updatedAt": "2026-09-02T01:37:37Z",
-    "url": "https://github.com/rose-pine/helix",
     "usesCustomOpenGraphImage": true
   },
   {
