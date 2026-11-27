@@ -10,6 +10,20 @@
     "usesCustomOpenGraphImage": true
   },
   {
+    "description": "Soho vibes for Telegram",
+    "homepageUrl": "",
+    "name": "telegram",
+    "repositoryTopics": [
+      "telegram",
+      "theme",
+      "rose-pine"
+    ],
+    "stargazerCount": 3,
+    "updatedAt": "2026-11-05T12:23:54Z",
+    "url": "https://github.com/rose-pine/telegram",
+    "usesCustomOpenGraphImage": true
+  },
+  {
     "description": "Soho vibes for Helix",
     "homepageUrl": "",
     "name": "helix",
@@ -27,20 +41,6 @@
     "usesCustomOpenGraphImage": true
   },
   {
-    "description": "Soho vibes for Telegram",
-    "homepageUrl": "",
-    "name": "telegram",
-    "repositoryTopics": [
-      "telegram",
-      "theme",
-      "rose-pine"
-    ],
-    "stargazerCount": 3,
-    "updatedAt": "2026-11-05T12:23:54Z",
-    "url": "https://github.com/rose-pine/telegram",
-    "usesCustomOpenGraphImage": true
-  },
-  {
     "description": "Soho vibes for tmux",
     "homepageUrl": "",
     "name": "tmux",
@@ -50,8 +50,8 @@
       "tmux",
       "theme"
     ],
-    "stargazerCount": 284,
-    "updatedAt": "2026-11-24T12:17:49Z",
+    "stargazerCount": 285,
+    "updatedAt": "2026-11-26T11:26:57Z",
     "url": "https://github.com/rose-pine/tmux",
     "usesCustomOpenGraphImage": true
   },
@@ -146,8 +146,8 @@
     "homepageUrl": "",
     "name": "rex",
     "repositoryTopics": [],
-    "stargazerCount": 0,
-    "updatedAt": "2026-11-17T12:21:52Z",
+    "stargazerCount": 1,
+    "updatedAt": "2026-11-26T11:42:09Z",
     "url": "https://github.com/rose-pine/rex",
     "usesCustomOpenGraphImage": false
   },
@@ -573,8 +573,8 @@
       "vim-theme",
       "editor"
     ],
-    "stargazerCount": 3113,
-    "updatedAt": "2026-11-25T17:17:43Z",
+    "stargazerCount": 3114,
+    "updatedAt": "2026-11-27T01:02:33Z",
     "url": "https://github.com/rose-pine/neovim",
     "usesCustomOpenGraphImage": true
   },
